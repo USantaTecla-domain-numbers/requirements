@@ -114,3 +114,154 @@ let n;
 ```
 
 [javascript](https://github.com/USantaTecla-mathematics/javascript/blob/master/expresiones/Centenas%20de%20un%20n%C3%BAmero/Centenas%20de%20un%20numero.js)
+
+### IVA y descuento
+
+* Incrementar el valor de un producto con su IVA (21%) y lo que supondría un descuento del 25% de su precio
+
+```javascript
+var price;
+const IVA = 0.21;
+```
+
+[javascript](https://github.com/USantaTecla-mathematics/javascript/blob/master/expresiones/IVA%20y%20descuento/IVA%20y%20descuento.js)
+
+### Cantidad de centimos
+
+* Dado una cantidad [0..100) de céntimos, calcular cuántas monedas de 50, 20, 10 y 5, 2, 1 céntimos serían necesarias para cubrirlo, teniendo en cuenta que se quieren utilizar las menos posibles.
+
+```javascript
+let amount;
+```
+
+[javascript](https://github.com/USantaTecla-mathematics/javascript/blob/master/expresiones/Cantidad%20de%20centimos%20necesarios/Cantidad%20de%20centimos%20necesarios.js)
+
+## Sentencias Alternativas
+
+### Pariedad
+
+* Mostrar si un número es par o impar
+
+
+javascript
+|
+[Version 1](https://github.com/USantaTecla-mathematics/javascript/blob/master/sentenciasAlternativas/Pariedad.%20Version1/Pariedad.%20Version1.js)
+|
+[Version 2](https://github.com/USantaTecla-mathematics/javascript/blob/master/sentenciasAlternativas/Pariedad.%20Version2/Pariedad.%20Version2.js)
+|
+[Version 3](https://github.com/USantaTecla-mathematics/javascript/blob/master/sentenciasAlternativas/Pariedad.%20Version3/Pariedad.%20Version3.js)
+|
+[Version 4](https://github.com/USantaTecla-mathematics/javascript/blob/master/sentenciasAlternativas/Pariedad.%20Version4/Pariedad.%20Version4.js)
+|
+
+### Monedas de centimos
+
+* Dado una cantidad [0..100) de céntimos, calcular cuántas monedas de 50, 20, 10 y 5, 2, 1 céntimos serían necesarias para cubrirlo, teniendo en cuenta que se quieren utilizar las menos posibles.
+
+[javascript](https://github.com/USantaTecla-mathematics/javascript/blob/master/sentenciasAlternativas/Monedas%20de%20centimos/Monedas%20de%20centimos.js)
+
+
+## Sentencias Iterativas
+
+### Tabla de multiplicar
+
+* Tabla de multiplicar utilizando:
+    * while
+    * do/while
+    * for
+
+
+javascript    
+|
+[Version 1](https://github.com/USantaTecla-mathematics/javascript/blob/master/sentenciasIterativas/Tabla%20de%20multiplicar.%20Version1/Tabla%20de%20multiplicar.%20Version1.js)
+|
+[Version 2](https://github.com/USantaTecla-mathematics/javascript/blob/master/sentenciasIterativas/Tabla%20de%20multiplicar.%20Version2/Tabla%20de%20multiplicar.%20Version2.js)
+|
+[Version 3](https://github.com/USantaTecla-mathematics/javascript/blob/master/sentenciasIterativas/Tabla%20de%20multiplicar.%20Version3/Tabla%20de%20multiplicar.%20Version3.js)
+|
+[Version 4](https://github.com/USantaTecla-mathematics/javascript/blob/master/sentenciasIterativas/Tabla%20de%20multiplicar.%20Version4/Tabla%20de%20multiplicar.%20Version4.js)
+|
+### Amigos
+
+* Dados dos números, determinar si son amigos
+
+[javascript](https://github.com/USantaTecla-mathematics/javascript/blob/master/sentenciasIterativas/Si%20son%20amigos/Si%20son%20amigos.js)
+
+### Perfecto
+
+* Dado un número, determinar si es perfecto
+
+[javascript](https://github.com/USantaTecla-mathematics/javascript/blob/master/sentenciasIterativas/Si%20es%20perfecto/Si%20es%20perfecto.js)
+
+### Palidromo
+
+* Dado un número, determinar si es palíndromo
+
+[javascript](https://github.com/USantaTecla-mathematics/javascript/blob/master/sentenciasIterativas/Si%20es%20pal%C3%ADdromo/Si%20es%20palidromo.js)
+
+## Funciones
+
+### Pariedad
+
+* Mostrar si un número es par o impar
+
+
+javascript
+|
+[Version 1](https://github.com/USantaTecla-mathematics/javascript/blob/master/funciones/Pariedad.%20Version1/Pariedad.%20Version1.js)
+|
+[Version 2](https://github.com/USantaTecla-mathematics/javascript/blob/master/funciones/Pariedad.%20Version2/Pariedad.%20Version2.js)
+|
+[Version 3](https://github.com/USantaTecla-mathematics/javascript/blob/master/funciones/Pariedad.%20Version3/Pariedad.%20Version3.js)
+|
+[Version 4](https://github.com/USantaTecla-mathematics/javascript/blob/master/funciones/Pariedad.%20Version4/Pariedad.%20Version4.js)
+|
+
+### Primos
+
+* Encontrar numero primo: solo divisible por sí mismo y la unidad
+   * Y la suma de los primos en los 10 primeros números
+   * la suma de los 10 primeros números primos
+
+
+javascript
+|
+[Version 1](https://github.com/USantaTecla-mathematics/javascript/blob/master/funciones/Numero%20primo.%20Version1/Numero%20primo.%20Version1.js)
+|
+[ Version 2](https://github.com/USantaTecla-mathematics/javascript/blob/master/funciones/Numero%20primo.%20Version2/Numero%20primo.%20Version2.js)
+|
+[Version 3](https://github.com/USantaTecla-mathematics/javascript/blob/master/funciones/Numero%20primo.%20Version3/Numero%20primos.%20Version3.js)
+|
+[Version 4](https://github.com/USantaTecla-mathematics/javascript/blob/master/funciones/Numero%20primo.%20Version4/Numero%20primo.%20Version4.js)
+|
+
+### Tabla de multiplicar
+
+* Las 10 primeras tablas de multiplicar
+
+[javascript](https://github.com/USantaTecla-mathematics/javascript/blob/master/funciones/Tabla%20de%20multiplicar/Tabla%20de%20multiplicar.js)
+
+### Palidromo
+
+* Dado un número, determinar si es palíndromo
+
+[javascript](https://github.com/USantaTecla-mathematics/javascript/blob/master/funciones/Numero%20palidromo/Numero%20palidromo.js)
+
+### Perfecto
+
+* Dado un número, determinar si es perfecto
+
+[javascript](https://github.com/USantaTecla-mathematics/javascript/blob/master/funciones/Numero%20perfecto/Numero%20perfecto.js)
+
+### Amigos
+
+* Dados dos números, determinar si son amigos
+
+[javascript](https://github.com/USantaTecla-mathematics/javascript/blob/master/funciones/Numero%20amigo/Numero%20amigo.js)
+
+### Caracteristicas de numero
+
+* Caracteristicas de numero
+
+[javascript](https://github.com/USantaTecla-mathematics/javascript/blob/master/funciones/Caracteristicas%20de%20numero/Caracteristicas%20de%20numero.js)
+
