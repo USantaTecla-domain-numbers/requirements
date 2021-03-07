@@ -2,10 +2,7 @@
 Universo Santa Tecla  
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com) 
 
-## Expresiones
-### Porcentaje
-
-[porcentaje](./docs/porcentaje.md)
+### [Porcentaje](./docs/porcentaje.md)
 
 
 
