@@ -2,6 +2,7 @@
 Universo Santa Tecla  
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com) 
 
+## Expresiones
 ### Porcentaje
 
 * Expresión si el 37% de un entero es menor que 10
@@ -83,3 +84,33 @@ javascript
 |
 [Version2](https://github.com/USantaTecla-mathematics/javascript/blob/master/expresiones/Nota%20final.%20Version2/Nota%20final.%20Version2.js)
 |
+
+### Unidades de un numero
+
+* Las unidades de un número n: del 35 será el 5; del 43953 será el 3; del 8 será el 8; del 0 será el 0; ...
+
+```javascript
+let n;
+```
+
+[javascript](https://github.com/USantaTecla-mathematics/javascript/blob/master/expresiones/Unidades%20de%20un%20n%C3%BAmero/Unidades%20de%20un%20numero.js)
+
+### Decenas
+
+* Las decenas de un número n entero: del 35 será el 3; del 43953 será el 5; del 8 será el 0; del 0 será el 0; ...
+
+```javascript
+let n;
+```
+
+[javascript](https://github.com/USantaTecla-mathematics/javascript/blob/master/expresiones/Decenas%20de%20un%20numero/Decenas%20de%20un%20numero.js)
+
+### Centenas
+
+* Las centenas de un número n: del 35 será el 0; del 43953 será el 9; del 8 será el 0;  del 0 será el 0; ...
+
+```javascript
+let n;
+```
+
+[javascript](https://github.com/USantaTecla-mathematics/javascript/blob/master/expresiones/Centenas%20de%20un%20n%C3%BAmero/Centenas%20de%20un%20numero.js)
