@@ -28,15 +28,12 @@ Universo Santa Tecla
 
 
 
-## [Primos](./docs/primos.md)
 ## [Pariedad](./docs/pariedadFunciones.md)
 
-## [Perfecto](./docs/perfectos.md)
-## [Perfecto](./docs/perfectoFunciones.md)
-
-## Amigos
-
+## Divisores
 ### [Amigos](./docs/amigos.md)
+### [Perfecto](./docs/perfecto.md)
+### [Primos](./docs/primos.md)
 
 ## [Tabla de multiplicar](./docs/tablaMultiplicarFunciones.md)
 
