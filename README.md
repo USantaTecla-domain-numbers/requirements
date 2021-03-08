@@ -9,14 +9,15 @@ Universo Santa Tecla
 ## [Normativa estricta](./docs/normativaEstricta.md)
 ## [Nota final](./docs/notaFinal.md)
 
-## [Serie](./docs/serie.md)
-
 ## Dígitos
 ## [Decenas](./docs/decenas.md)
 ## [Centenas](./docs/centenas.md)
 ## [Unidades de un numero](./docs/unidadesNumero.md)
 ## [Cantidad de centimos](./docs/cantidadCentimos.md)
-## [Monedas de centimos](./docs/monedasCentimos.md)
+
+## [Cambio Monedas](./docs/cambioMonedas.md)
+
+## [Serie](./docs/serie.md)
 
 ## [Pariedad](./docs/pariedadSentenciasAlternativas.md)
 ## [Pariedad](./docs/pariedadFunciones.md)
@@ -25,11 +26,9 @@ Universo Santa Tecla
 ## [Tabla de multiplicar](./docs/tablaMultiplicarFunciones.md)
 
 ## Divisores
-### [Amigos](./docs/amigos.md)
-### [Perfecto](./docs/perfecto.md)
-### [Primo](./docs/primos.md)
+### [Amigos](./docs/divisores/amigos.md)
+### [Perfecto](./docs/divisores/perfecto.md)
+### [Primo](./docs/divisores/primos.md)
 
 ## [Palidromo](./docs/palidromo.md)
-
-## [Caracteristicas de numero](./docs/caracteristicasNumero.md)
 
