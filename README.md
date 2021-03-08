@@ -3,50 +3,47 @@ Universo Santa Tecla
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com) 
 
 ## [Porcentaje](./docs/porcentaje.md)
+## [Impuestos](./docs/ivaDescuento.md)
+
+## [Normativa relajada](./docs/normativaRelajada.md)
+## [Normativa estricta](./docs/normativaEstricta.md)
+## [Nota final](./docs/notaFinal.md)
 
 ## [Serie](./docs/serie.md)
 
-## [Normativa relajada](./docs/normativaRelajada.md)
-
-## [Normativa estricta](./docs/normativaEstricta.md)
-
-## [Nota final](./docs/notaFinal.md)
-
-## [Unidades de un numero](./docs/unidadesNumero.md)
-
 ## [Decenas](./docs/decenas.md)
-
 ## [Centenas](./docs/centenas.md)
-
-## [IVA y descuento](./docs/ivaDescuento.md)
-
+## [Unidades de un numero](./docs/unidadesNumero.md)
 ## [Cantidad de centimos](./docs/cantidadCentimos.md)
+## [Monedas de centimos](./docs/monedasCentimos.md)
 
 ## [Pariedad](./docs/pariedadSentenciasAlternativas.md)
 
-## [Monedas de centimos](./docs/monedasCentimos.md)
-
 ## [Tabla de multiplicar](./docs/tablaMultiplicar.md)
 
-## [Amigos](./docs/amigos.md)
-
-## [Perfecto](./docs/perfectos.md)
 
 
-## [Palidromo](./docs/palidromo.md)
 
-## [Pariedad](./docs/pariedadFunciones.md)
+
+
+
 
 ## [Primos](./docs/primos.md)
+## [Pariedad](./docs/pariedadFunciones.md)
+
+## [Perfecto](./docs/perfectos.md)
+## [Perfecto](./docs/perfectoFunciones.md)
+
+## Amigos
+
+### [Amigos](./docs/amigos.md)
 
 ## [Tabla de multiplicar](./docs/tablaMultiplicarFunciones.md)
 
 ## [Palidromo](./docs/palidromoFunciones.md)
 
-## [Perfecto](./docs/perfectoFunciones.md)
+## [Palidromo](./docs/palidromo.md)
 
-
-## [Amigos](./docs/amigosFunciones.md)
 
 ## [Caracteristicas de numero](./docs/caracteristicasNumero.md)
 
