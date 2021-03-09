@@ -6,8 +6,6 @@ Universo Santa Tecla
 ## [Valor Absoluto](./docs/valorAbsoluto.md)
 ## [Pariedad](./docs/pariedad.md)
 ## [Dígitos](./docs/digitos.md)
-
-
 ## [Cambio Monedas](./docs/cambioMonedas.md)
 
 ## [Serie](./docs/serie.md)
@@ -19,7 +17,7 @@ Universo Santa Tecla
 ## Divisores
 ### [Amigos](./docs/divisores/amigos.md)
 ### [Perfecto](./docs/divisores/perfecto.md)
-### [Primo](./docs/divisores/primos.md)
+### [Primo](./docs/divisores/primo.md)
 
 ## [Palidromo](./docs/palidromo.md)
 
